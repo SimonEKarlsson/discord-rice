@@ -1,0 +1,21 @@
+:root {
+  --accent: rgba(51, 204, 255, 1); /* Glowing blue */
+  --accent-hover: rgba(51, 204, 255, 0.8);
+  --background-primary: #111111;
+  --background-secondary: #1a1a1a;
+  --background-tertiary: #222222;
+  --background-floating: rgba(30, 30, 30, 0.95);
+  --channeltextarea-background: #1e1e1e;
+  --interactive-normal: #cccccc;
+  --interactive-hover: rgba(51, 204, 255, 0.8);
+  --interactive-active: rgba(51, 204, 255, 1);
+  --interactive-muted: #666666;
+  --text-normal: #dddddd;
+  --text-muted: #999999;
+  --header-primary: rgba(51, 204, 255, 1);
+  --header-secondary: rgba(51, 204, 255, 0.7);
+  --scrollbar-thin-thumb: rgba(51, 204, 255, 0.2);
+  --scrollbar-auto-thumb: rgba(51, 204, 255, 0.3);
+  --scrollbar-auto-track: transparent;
+}
+
